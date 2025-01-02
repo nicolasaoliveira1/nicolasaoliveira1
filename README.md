@@ -2,10 +2,10 @@
 
 ## 🔰 Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres.
 - 💼 Procurando um estágio em desenvolvimento de software.
-- 🌱 Aprendendo mais sobre Python ultimamente.
+- 🐍 Aprendendo mais sobre Python ultimamente.
 
 ---
 
@@ -19,10 +19,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 
 
----
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasaoliveira1&theme=dark&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasaoliveira1&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaoliveira1&layout=compact&theme=dark&show)
 
 ## 💌 Onde me encontrar
 <p align="left">
