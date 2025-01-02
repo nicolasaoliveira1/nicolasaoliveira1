@@ -1,6 +1,6 @@
 # Olá, meu nome é Nicolas!
 
-## Sobre mim
+## 🔰 Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres.
