@@ -22,7 +22,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasaoliveira1&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaoliveira1&layout=compact&theme=dark&show)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaoliveira1&layout=compact&theme=dark&show&size_weight=0.5&count_weight=0.5)
 
 ## 💌 Onde me encontrar
 <p align="left">
