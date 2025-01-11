@@ -5,7 +5,7 @@
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres.
 - 💼 Procurando um estágio em desenvolvimento de software.
-- 🐍 Aprendendo mais sobre Python ultimamente.
+- 🐍 Aprendendo mais sobre Python e Javascript ultimamente.
 
 ---
 
