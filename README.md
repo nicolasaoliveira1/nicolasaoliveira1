@@ -7,18 +7,33 @@
 - 💼 Procurando um estágio em desenvolvimento de software.
 - 🐍 Aprendendo mais sobre Python e Javascript ultimamente.
 
+## 🔨 Projetos
+
+- **Controle de Certidões Fiscais**: ultimamente tenho focado no desenvolvimento de um sistema web para emissão e controle de certidões fiscais para o escritório onde trabalho, utilizando Python (Flask) e outras tecnologias.
+
 ---
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+</div>
 
-
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasaoliveira1&theme=dark&show_icons=true)
 
@@ -26,15 +41,21 @@
 
 ## 💌 Onde me encontrar
 <p align="left">
-  <a href="https://www.linkedin.com/in/nicolasaoliveira" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nicolasaoliveira" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5551995704706?text=Ol%C3%A1%2C%20olhei%20seu%20Github%20e%20gostaria%20de%20entrar%20em%20contato!" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5551995704706?text=Ol%C3%A1%2C%20olhei%20seu%20Github%20e%20gostaria%20de%20entrar%20em%20contato!" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/nicolasaoliveira" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicolasaoliveira" alt="Instagram"/></a>
-  <a href="mailto:eu@nicolasoliveira.dev.br" title="Email">
-  <img src="https://img.shields.io/badge/-eu@nicolasoliveira.dev.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eu@nicolasoliveira.dev.br" alt="Email"/></a>
-  
+    <a  href="https://www.linkedin.com/in/nicolasaoliveira" title="LinkedIn">
+    <img style="width:70px;" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nicolasaoliveira"  alt="LinkedIn"/></a>
+    <a href="https://wa.me/5551995704706?text=Ol%C3%A1%2C%20olhei%20seu%20Github%20e%20gostaria%20de%20entrar%20em%20contato!" title="WhatsApp">
+    <img style="width:110px;" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5551995704706?text=Ol%C3%A1%2C%20olhei%20seu%20Github%20e%20gostaria%20de%20entrar%20em%20contato!" alt="WhatsApp"/></a>
+    <a href="https://www.instagram.com/nicolasaoliveira" title="Instagram">
+    <img style="width:110px;" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicolasaoliveira" alt="Instagram"/></a>
+    <a href="mailto:eu@nicolasoliveira.dev.br" title="Email">
+    <img style="width:200px;" src="https://img.shields.io/badge/-eu@nicolasoliveira.dev.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eu@nicolasoliveira.dev.br" alt="Email"/></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 
