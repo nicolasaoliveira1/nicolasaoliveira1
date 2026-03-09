@@ -50,10 +50,11 @@
     <a href="mailto:eu@nicolasoliveira.dev.br" title="Email">
     <img style="width:200px;" src="https://img.shields.io/badge/-eu@nicolasoliveira.dev.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eu@nicolasoliveira.dev.br" alt="Email"/></a>
 </p>
-<img src="https://raw.githubusercontent.com/nicolasaoliveira1/nicolasaoliveira1/output/snake.svg" alt="Snake animation" />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasaoliveira1/nicolasaoliveira1/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasaoliveira1/nicolasaoliveira1/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/nicolasaoliveira1/nicolasaoliveira1/output/snake.svg" alt="Snake animation" />
 </picture>
 
 
