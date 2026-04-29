@@ -2,10 +2,10 @@
 
 ## 🔰 Sobre mim
 
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💻 Trilhando o caminho de Dev Full Stack, com projetos que resolvam problemas reais!
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres.
 - 💼 Procurando um estágio em desenvolvimento de software.
-- 🐍 Aprendendo mais sobre Python e Javascript ultimamente.
+- 🐍 Me aprimorando nas tecnologias: Python, Java, TypeScript, C#, React, MySQL, etc.
 
 ## 🔨 Projetos
 
@@ -35,10 +35,8 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaoliveira1&layout=compact&theme=dark&show&size_weight=0.5&count_weight=0.5)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasaoliveira1&theme=dark&show_icons=true)
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaoliveira1&layout=compact&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasaoliveira1&theme=dark&show_icons=true) |
+| :---: | :---: |
 
 
 ## 💌 Onde me encontrar
