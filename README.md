@@ -4,13 +4,14 @@
 
 - 💻 Trilhando o caminho de Dev Full Stack, com projetos que resolvam problemas reais!
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres.
-- 💼 Procurando um estágio em desenvolvimento de software.
+- 💼 Atualmente voluntariando como desenvolvedor do <a href="https://dietcopilot.com.br" title="Diet Copilot">
+    Diet Copilot</a>
 - 🐍 Me aprimorando nas tecnologias: Python, Java, TypeScript, C#, React, MySQL, etc.
 
 ## 🔨 Projetos
 
-- **Controle de Certidões Fiscais**: ultimamente tenho focado no desenvolvimento de um sistema web para emissão e controle de certidões fiscais para o escritório onde trabalho, utilizando Python (Flask) e outras tecnologias.
-
+- **Controle de Certidões Fiscais**: Construindo um sistema web para emissão e controle de certidões fiscais para nosso escritório familiar, utilizando Python (Flask) e outras tecnologias.
+Confira o [Sistema de Controle de Certidões Fiscais](https://github.com/nicolasaoliveira1/CertidoesPython)
 ---
 
 ## 🚀 Minhas Skills
