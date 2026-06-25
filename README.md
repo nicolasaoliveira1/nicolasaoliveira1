@@ -1,6 +1,6 @@
 # Olá, meu nome é Nicolas!
 
-## 🔰 Sobre mim
+
 
 - 💻 Trilhando o caminho de Dev Full Stack, com projetos que resolvam problemas reais!
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres.
