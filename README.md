@@ -10,8 +10,8 @@
 
 ## 🔨 Projetos
 
-- **Controle de Certidões Fiscais**: Construindo um sistema web para emissão e controle de certidões fiscais para nosso escritório familiar, utilizando Python (Flask) e outras tecnologias.
-Confira o [Sistema de Controle de Certidões Fiscais](https://github.com/nicolasaoliveira1/CertidoesPython)
+- **Zelo**: Construindo um sistema web para emissão e controle de certidões fiscais para nosso escritório familiar, utilizando Python (Flask) e outras tecnologias.
+Confira o [Zelo](https://github.com/nicolasaoliveira1/zelo-certidoes) aqui
 ---
 
 ## 🚀 Minhas Skills
