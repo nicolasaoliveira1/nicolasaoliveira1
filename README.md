@@ -10,7 +10,7 @@
 
 ## 🔨 Projetos
 
-- **Zelo**: Construindo um sistema web para emissão e controle de certidões fiscais para nosso escritório familiar, utilizando Python (Flask) e outras tecnologias.
+- **Zelo**: Construindo um sistema web para emissão e controle de certidões fiscais para nosso escritório familiar, que já é utilizado internamente, desenvolvido com Python (Flask) e outras tecnologias.
 Confira o [Zelo](https://github.com/nicolasaoliveira1/zelo-certidoes) aqui
 ---
 
