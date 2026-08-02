@@ -11,7 +11,7 @@
 ## 🔨 Projetos
 
 - **Zelo**: Construindo um sistema web para controle e gestão do setor fiscal do nosso escritório familiar, que está sendo utilizado diariamente, desenvolvido com Python (Flask) e outras tecnologias.
-Confira o [Zelo](https://github.com/nicolasaoliveira1/zelo-certidoes) aqui
+Confira o [Zelo](https://github.com/nicolasaoliveira1/zelo-fiscal) aqui
 ---
 
 ## 🚀 Minhas Skills
