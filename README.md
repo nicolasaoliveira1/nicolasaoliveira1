@@ -1,4 +1,4 @@
-# Olá, meu nome é Nicolas!
+# Nicolas de Almeida Oliveira - Dev Fullstack
 
 
 
@@ -14,7 +14,7 @@
 Confira o [Zelo](https://github.com/nicolasaoliveira1/zelo-fiscal) aqui
 ---
 
-## 🚀 Minhas Skills
+## 🚀 Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
