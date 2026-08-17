@@ -6,7 +6,7 @@
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres.
 - 💼 Atualmente voluntariando como desenvolvedor do <a href="https://dietcopilot.com.br" title="Diet Copilot">
     Diet Copilot</a>
-- 🐍 Me aprimorando nas tecnologias: Python, Java, TypeScript, C#, React, MySQL, etc.
+- 🐍 Me aprimorando nas tecnologias: Python, TypeScript, C#, React, MySQL, etc.
 
 ## 🔨 Projetos
 
