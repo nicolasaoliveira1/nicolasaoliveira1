@@ -1,4 +1,4 @@
-# Nicolas de Almeida Oliveira - Desenvolvedor de Software
+# Nicolas de Almeida Oliveira - Desenvolvedor Full Stack
 
 
 
