@@ -1,64 +1,14 @@
-# Nicolas de Almeida Oliveira - Desenvolvedor Full Stack
+<a href="https://gitascii.com/nicolasaoliveira1">
+  <img
+    src="https://gitascii.com/api/nicolasaoliveira1?v=1787165556379"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
 
-
-
-- 💻 Trilhando o caminho de Dev Full Stack, com projetos que resolvam problemas reais!
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres.
-- 💼 Atualmente voluntariando como desenvolvedor do <a href="https://dietcopilot.com.br" title="Diet Copilot">
-    Diet Copilot</a>
-- 🐍 Me aprimorando nas tecnologias: Python, TypeScript, C#, React, MySQL, etc.
-
-## 🔨 Projetos
-
-- **Zelo**: Construindo um sistema web para controle e gestão do setor fiscal do nosso escritório familiar, que está sendo utilizado diariamente, desenvolvido com Python (Flask) e outras tecnologias.
-Confira o [Zelo](https://github.com/nicolasaoliveira1/zelo-fiscal) aqui
----
-
-## 🚀 Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  
-    
-</div>
-
-<hr>
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaoliveira1&layout=compact&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasaoliveira1&theme=dark&show_icons=true) |
-| :---: | :---: |
-
-
-## 💌 Onde me encontrar
 <p align="left">
-    <a  href="https://www.linkedin.com/in/nicolasaoliveira" title="LinkedIn">
-    <img style="width:70px;" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nicolasaoliveira"  alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/nicolasaoliveira" title="Instagram">
-    <img style="width:110px;" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicolasaoliveira" alt="Instagram"/></a>
-    <a href="mailto:eu@nicolasoliveira.dev.br" title="Email">
-    <img style="width:200px;" src="https://img.shields.io/badge/-eu@nicolasoliveira.dev.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eu@nicolasoliveira.dev.br" alt="Email"/></a>
+  <a href="https://github.com/nicolasaoliveira1/zelo-fiscal"><img src="https://img.shields.io/badge/Zelo-27272a?style=for-the-badge&logo=github&logoColor=f4f4f5" alt="Repositório do Zelo" /></a>
+  <a href="https://github.com/nicolasaoliveira1/sudoku-vite"><img src="https://img.shields.io/badge/Sudoku%20Vite-27272a?style=for-the-badge&logo=github&logoColor=f4f4f5" alt="Repositório do Sudoku Vite" /></a>
+  <a href="https://github.com/nicolasaoliveira1/JiuJitsuAppFlet"><img src="https://img.shields.io/badge/JiuJitsu%20App-27272a?style=for-the-badge&logo=github&logoColor=f4f4f5" alt="Repositório do JiuJitsu App" /></a>
+  <a href="https://dietcopilot.com.br"><img src="https://img.shields.io/badge/Diet%20Copilot-27272a?style=for-the-badge&logo=googlechrome&logoColor=f4f4f5" alt="Diet Copilot" /></a>
 </p>
-
-
-
-
