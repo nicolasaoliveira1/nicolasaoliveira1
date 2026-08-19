@@ -34,7 +34,7 @@
         "height": 160
       },
       "config": {
-        "customBio": "Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas na ULBRA.",
+        "customBio": "Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas na ULBRA | Voluntário no SaaS Diet Copilot.",
         "customLocation": "RS, Brasil",
         "animationType": "fade-in",
         "animationPreviewKey": 1,
@@ -72,7 +72,7 @@
         "showRepoLanguage": true,
         "showRepoStars": true,
         "showRepoForks": false,
-        "showRepoUpdated": false,
+        "showRepoUpdated": true,
         "animationType": "fade-in",
         "animationPreviewKey": 1,
         "hideBorder": false,
@@ -129,7 +129,7 @@
       "widgetId": "github-readme-stats",
       "position": {
         "x": 0,
-        "y": 844
+        "y": 685
       },
       "size": {
         "width": 390,
@@ -149,7 +149,7 @@
       "widgetId": "streak-stats",
       "position": {
         "x": 402,
-        "y": 844
+        "y": 685
       },
       "size": {
         "width": 398,
@@ -171,7 +171,7 @@
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 1054
+        "y": 895
       },
       "size": {
         "width": 800,
@@ -198,25 +198,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1787161551925",
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 0,
-        "y": 685
-      },
-      "size": {
-        "width": 800,
-        "height": 160
-      },
-      "config": {
-        "customTitle": ""
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     }
   ],
   "globalStyles": {
