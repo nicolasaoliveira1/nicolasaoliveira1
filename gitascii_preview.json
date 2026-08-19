@@ -1,0 +1,235 @@
+{
+  "widgets": [
+    {
+      "widgetId": "header",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "hideBorder": false,
+        "hideDecorations": false,
+        "customTitle": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1787161294328_0",
+      "name": "Header Widget"
+    },
+    {
+      "widgetId": "bio",
+      "position": {
+        "x": 0,
+        "y": 90
+      },
+      "size": {
+        "width": 792,
+        "height": 160
+      },
+      "config": {
+        "customBio": "Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas na ULBRA.",
+        "customLocation": "RS, Brasil",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "hideBorder": false,
+        "lockAspectRatio": false,
+        "customTitle": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1787161294328_2",
+      "name": "Bio Widget"
+    },
+    {
+      "instanceId": "widget_1787161294328_6",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
+      "position": {
+        "x": 0,
+        "y": 252
+      },
+      "size": {
+        "width": 800,
+        "height": 284
+      },
+      "config": {
+        "repoViewMode": "list",
+        "selectedRepos": [
+          "zelo-fiscal",
+          "sudoku-vite",
+          "JiuJitsuAppFlet"
+        ],
+        "maxRepos": 3,
+        "showRepoDesc": true,
+        "showRepoLanguage": true,
+        "showRepoStars": true,
+        "showRepoForks": false,
+        "showRepoUpdated": false,
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "hideBorder": false,
+        "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "widgetId": "tech-stack",
+      "position": {
+        "x": 0,
+        "y": 538
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "py",
+          "cs",
+          "java",
+          "js",
+          "ts",
+          "react",
+          "mysql",
+          "postgres",
+          "git",
+          "flask",
+          "bootstrap",
+          "selenium",
+          "django",
+          "fastapi",
+          "docker",
+          "nextjs",
+          "tailwind"
+        ],
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "hideBorder": false,
+        "theme": "dark",
+        "lockAspectRatio": false,
+        "customTitle": "[ SKILLS ]"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1787161294328_3",
+      "name": "Tech-stack Widget"
+    },
+    {
+      "widgetId": "github-readme-stats",
+      "position": {
+        "x": 0,
+        "y": 844
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5,
+      "instanceId": "widget_1787161294328_4",
+      "name": "Github-readme-stats Widget"
+    },
+    {
+      "widgetId": "streak-stats",
+      "position": {
+        "x": 402,
+        "y": 844
+      },
+      "size": {
+        "width": 398,
+        "height": 210
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1787161294328_5",
+      "name": "Streak-stats Widget"
+    },
+    {
+      "instanceId": "widget_1787161427856",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 1054
+      },
+      "size": {
+        "width": 800,
+        "height": 96
+      },
+      "config": {
+        "selectedSocials": [
+          "linkedin",
+          "instagram",
+          "email"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/nicolasaoliveira1",
+          "linkedin": "https://www.linkedin.com/in/nicolasaoliveira/",
+          "website": "https://dietcopilot.com.br",
+          "instagram": "https://www.instagram.com/nicolasaoliveira",
+          "email": "mailto:eu@nicolasoliveira.dev.br"
+        },
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "lockAspectRatio": false,
+        "badgeStyle": "for-the-badge"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1787161551925",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 685
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {
+        "customTitle": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#f4f4f5",
+    "accentColor": "#a1a1aa",
+    "borderColor": "#27272a",
+    "fontFamily": "Inter Tight",
+    "borderRadius": 12,
+    "padding": 16,
+    "themeMode": "dark",
+    "templateStyle": "bento",
+    "transparentBackground": false
+  },
+  "templateId": "bento"
+}
