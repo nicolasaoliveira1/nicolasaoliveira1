@@ -8,7 +8,7 @@
 
 ## Projetos
 
-**[Zelo](https://github.com/nicolasaoliveira1/zelo-fiscal)** — plataforma de gestão e automação do setor fiscal do escritório contábil onde trabalho. Automatiza emissão de certidões e notas fiscais com Selenium, roda com CI no GitHub Actions e já passou de 500 commits.
+**[Zelo](https://github.com/nicolasaoliveira1/zelo)** — plataforma de gestão e automação do setor fiscal do escritório contábil onde trabalho. Emite certidões em portais públicos com Selenium, transforma o extrato do banco em NFS-e e assina NF-e direto no webservice da SEFAZ. CI com paridade SQLite/MySQL. Em produção; o repositório de desenvolvimento é privado, e o link abre a vitrine técnica.
 
 **[Sudoku Web](https://nicolasaoliveira1.github.io/sudoku-vite/)** — jogo com solver próprio em React e TypeScript.
 
