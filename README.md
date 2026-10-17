@@ -1,4 +1,4 @@
-# Nicolas de Almeida Oliveira · Desenvolvedor Full Stack - Estudante de ADS
+# Nicolas de Almeida Oliveira - Desenvolvedor Full Stack
 
 -  Desenvolvedor no [Diet Copilot](https://dietcopilot.com.br), SaaS de nutrição clínica com assistente de IA (FastAPI, Next.js, PostgreSQL)
 -  Construo e mantenho o Zelo, sistema de gestão fiscal usado diariamente em produção
