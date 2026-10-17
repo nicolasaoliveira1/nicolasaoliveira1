@@ -1,10 +1,10 @@
 # Nicolas de Almeida Oliveira · Desenvolvedor Full Stack
 
 -  Estudando Análise e Desenvolvimento de Sistemas na ULBRA - Torres
--  Desenvolvedor voluntário no [Diet Copilot](https://dietcopilot.com.br), SaaS de nutrição clínica com assistente de IA (FastAPI, Next.js, PostgreSQL)
+-  Desenvolvedor no [Diet Copilot](https://dietcopilot.com.br), SaaS de nutrição clínica com assistente de IA (FastAPI, Next.js, PostgreSQL)
 -  Construo e mantenho o Zelo, sistema de gestão fiscal usado diariamente em produção
--  Backend em Python, com TypeScript, C# e SQL no dia a dia
--  Buscando estágio em desenvolvimento de software
+-  Programando em Python, TypeScript/JavaScript e SQL no dia a dia
+-  Orquestrando agentes de IA (Claude/Codex) no fluxo de desenvolvimento, buscando produtividade e qualidade de código.
 
 ## Projetos
 
